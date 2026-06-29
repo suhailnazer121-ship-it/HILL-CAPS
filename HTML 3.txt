@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gallery - Hill Caps Stay</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Gallery & Contact</h1>
+
+<p>Contact:</p>
+<p>9847392763</p>
+<p>9633686665</p>
+<p>7025064632</p>
+
+<a href="https://maps.app.goo.gl/1jv8MmCBR9xLYneS6?g_st=ic">View Location</a>
+
+</body>
+</html>

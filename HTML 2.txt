@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Booking - Hill Caps Stay</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Book Your Stay</h1>
+
+<form>
+    <input type="text" placeholder="Your Name"><br><br>
+    <input type="tel" placeholder="Phone Number"><br><br>
+    <input type="date"><br><br>
+    <input type="date"><br><br>
+
+    <select>
+        <option>Hut Stay - ₹800</option>
+        <option>Tent Stay - ₹700</option>
+    </select><br><br>
+
+    <a href="https://wa.me/919847392763">Book on WhatsApp</a>
+</form>
+
+</body>
+</html>
